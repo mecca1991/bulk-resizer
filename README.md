@@ -13,7 +13,7 @@ A simple command-line tool for resizing a folder of images to thumbnails while m
 
 ```bash
 # Installation instructions will be added once the tool is implemented
-npm install -g bulk-resizer
+pip install bulk-resizer
 ```
 
 ## Usage
